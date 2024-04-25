@@ -19,7 +19,7 @@ Smart Lightng is an Arduino-based project that utilizes object detection to inte
 ## Hardware Requirements
 
 - Arduino Uno or similar microcontroller board
-- PIR (Passive Infrared) motion sensor
+- camera 
 - Relay module or solid-state relay (SSR)
 - Light bulbs or LED strips
 - Jumper wires
@@ -49,7 +49,7 @@ Smart Lightng is an Arduino-based project that utilizes object detection to inte
 
 ## Usage
 
-1. Place the PIR motion sensor in a strategic location within the room to detect movement effectively.
+1. Place the camera in a strategic location within the room to detect movement effectively.
 
 2. Ensure that the Arduino board is powered on and properly connected to the sensor, relay module, and light source.
 
