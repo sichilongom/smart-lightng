@@ -60,11 +60,13 @@ Smart Lightng is an Arduino-based project that utilizes object detection to inte
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-michealsichilongo@gmail.com
-profile.php?id=100009147133640
-https://www.instagram.com/m.sichilongo?igsh=MXdqamFwbHMwaG5xdQ==
-https://www.linkedin.com/in/michael-sichilongo-7b01a322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-https://youtube.com/@michealsichilongo?si=QcMuomDHvxePmTPL
+Contact:
+- Email: [michealsichilongo@gmail.com](mailto:michealsichilongo@gmail.com)
+- Facebook: [michealsichilongo](https://www.facebook.com/profile.php?id=100009147133640)
+- Instagram: [m.sichilongo](https://www.instagram.com/m.sichilongo?igsh=MXdqamFwbHMwaG5xdQ==)
+- LinkedIn: [Michael Sichilongo](https://www.linkedin.com/in/michael-sichilongo-7b01a322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- YouTube: [michealsichilongo](https://youtube.com/@michealsichilongo?si=QcMuomDHvxePmTPL)
+
 
 ## License
 
