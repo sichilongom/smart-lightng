@@ -29,6 +29,7 @@ Smart Lightng is an Arduino-based project that utilizes object detection to inte
 
 - Arduino IDE (Integrated Development Environment)
 - Libraries for object detection (e.g., OpenCV if using a camera-based approach)
+- visual studio
 
 ## Installation
 
